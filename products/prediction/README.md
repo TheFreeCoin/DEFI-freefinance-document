@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/masthead%20%285%29%20%282%29.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+FreeFinance Prediction is a fun and simple decentralized prediction market.
 
 > ### Predict whether BNB's price will rise or fall – guess correctly to win!
 
@@ -16,7 +16,7 @@ Have fun!
 
 [View smart contract](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b)
 
-## PancakeSwap Prediction Guides
+## FreeFinance Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
 

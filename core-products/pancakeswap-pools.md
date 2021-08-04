@@ -1,8 +1,8 @@
 # Pools
 
-\*\*\*\*[**PancakeSwap pools** ](https://exchange.pancakeswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
+\*\*\*\*[**FreeFinance pools** ](https://exchange.pancakeswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
 
-When you add your token to a liquidity pool \(LP\), you will receive FLIP tokens \(PancakeSwap’s version of liquidity provider tokens\).
+When you add your token to a liquidity pool \(LP\), you will receive FLIP tokens \(FreeFinance’s version of liquidity provider tokens\).
 
 As an example, if you deposited $CAKE and $BNB into a liquidity pool, you would receive CAKE-BNB FLIP tokens.
 
@@ -13,7 +13,7 @@ The number of FLIP tokens you receive represents your portion of the CAKE-BNB li
 Providing liquidity is not without risk, as you may be exposed to impermanent loss.  
 [“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
 
-It’s not all bad for liquidity providers as you will also be given a reward in the form of trading fees. Whenever someone trades PancakeSwap, the trader pays a 0.2% fee, of which 0.17% is added to the liquidity pool of the swap pair they traded on.
+It’s not all bad for liquidity providers as you will also be given a reward in the form of trading fees. Whenever someone trades FreeFinance, the trader pays a 0.2% fee, of which 0.17% is added to the liquidity pool of the swap pair they traded on.
 
 For example:
 

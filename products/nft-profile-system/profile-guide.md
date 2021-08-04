@@ -2,15 +2,15 @@
 
 ![](../../.gitbook/assets/docs-masthead-1-%20%281%29.png)
 
-Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Create a personalized profile on FreeFinance to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.  
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special FreeFinance team events.  
   
 **This process will cost a total of 1.5 CAKE.**
 
 ![](https://lh6.googleusercontent.com/_lvq_wpwDw96zKVutm23VddK1SNqYt7TdAu7YYWVkTTfEggvsHNUtTBe4333NlZXCyJyOZnoWObWcWA8CyoC4Db0R-xjaQUSxmHZpuca5Hrqr-xsBbRh5aKHa3x2dVakNRtNqXi5)
 
-1. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).  
+1. Visit **Your Profile** under **Teams & Profile** [here](https://FreeFinance.finance/profile).  
 ****
 
 ![](https://lh5.googleusercontent.com/20LdxdDz-6IKT3kihaAuSqvOL0UxeEkYtXujCnET_-BHONGg5OfDS5A3gWdjFKtvIXdOlVfBVBjG2O8TDzoWydnnkViG_LPSgkPfSmAMRNJyY0vVH6uIyxQImL0jCervkVYnSGfn)
@@ -94,5 +94,5 @@ You may notice your name is starred out. To view your name, click the **👁** e
 
 ![](https://lh3.googleusercontent.com/jJmpNe_beAlRvDnAm-oXGoop55b887kqOm6OotU55IpkqgAMrS18jvkkF04hnMkfq3iieuFibxrKnVTSkgZOWOf2XvXEpo9Bi-TBtBfxleJN8Fhrh2cRwR07Xu97wrwpU-9Gh7kY)
 
-Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your PancakeSwap achievements. You're also ready to participate in any special team events when they happen!
+Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your FreeFinance achievements. You're also ready to participate in any special team events when they happen!
 

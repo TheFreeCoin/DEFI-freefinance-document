@@ -8,7 +8,7 @@ Farms incentivize users to provide liquidity for your trading pair by distributi
 
 Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
 
-These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+These two products go hand-in-paw on FreeFinance: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
 [Apply to run a Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLScUkwbsMWwg7L5jjGjEcmv6RsoCNhFDkV3xEpRu2KcJrr47Sw/viewform?usp=sf_link)
 
@@ -25,11 +25,11 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 ### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider if if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider if if 30-day volume is increased. Contact us via your existing FreeFinance communication channels for enquiries.
 
 ## IFOs \(Token Sales\)
 
-"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
+"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by FreeFinance. Here's how it works, in short:
 
 * Users buy your token with CAKE-BNB LP tokens
 * After the sale, we distribute the BNB to you and burn the CAKE.
@@ -45,21 +45,21 @@ Learn more about [how IFOs work](../products/ifo-initial-farm-offering/).
 
 ### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any BEP-20 network token on FreeFinance. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
 
 ### How can I add my token to the default list?
 
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by PancakeSwap core team may also be added.
+The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by FreeFinance core team may also be added.
 
 We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
 
 ### How can I add my token's logo/icon?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Please add your icon to Trust Wallet’s assets repo, which FreeFinance references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
 ### Someone made a fake copy of my token! Can you block it?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
+Due to FreeFinance’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
 
 ### People get an error when trading my token. What can I do?
 

@@ -4,7 +4,7 @@
 
 ### **What are Syrup Pools?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.  
+Syrup Pools are the simplest way to earn free tokens on FreeFinance.  
 Stake CAKE, earn free tokens. It’s really that easy.
 
 Some special pools let you stake other tokens besides CAKE, too!

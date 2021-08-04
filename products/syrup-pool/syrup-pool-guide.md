@@ -1,5 +1,5 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Syrup Pools: the simplest way to earn on FreeFinance'
 ---
 
 # How to Stake in Syrup Pools
@@ -8,7 +8,7 @@ description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 
 Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
 
-It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+It's simpler than farming with FreeFinance's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
 
 ## **Getting started with Syrup Pool staking**
 

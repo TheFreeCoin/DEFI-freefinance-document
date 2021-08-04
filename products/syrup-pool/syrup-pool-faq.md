@@ -96,11 +96,11 @@ The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emis
 
 The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+For the "Stake other tokens, earn CAKE" type, the FreeFinance treasury buys back CAKE from the market to distribute as rewards. These pools are funded by FreeFinance, not by the projects themselves.
 
 ### What’s SYRUP Token?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for 
+FreeFinance’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for 
 
 It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
 

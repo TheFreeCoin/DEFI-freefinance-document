@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/docs-masthead-3-%20%281%29.png)
 
-An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
+An IFO on FreeFinance is an Initial Farm Offering. IFOs let you get early access to FreeFinance’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
 
@@ -10,9 +10,9 @@ IFOs are available for a very limited time. Get ready ahead of the event to make
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile
+### Create your FreeFinance profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.  
+To take part in an IFO, you'll need a FreeFinance profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.  
   
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
@@ -46,7 +46,7 @@ The **\(blocks\)** link will open the BscScan explorer in a new window at the st
 
 #### Use social media
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check FreeFinance’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 

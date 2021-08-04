@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/docs-masthead-22-.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of FreeFinance's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
@@ -24,19 +24,19 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
+* 📣 Announcement Channel \([http://t.me/FreeFinanceAnn](http://t.me/FreeFinanceAnn)\) 
 * 🥞 English \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
-* 🇯🇵 Japanese \([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP)\)
-* 🇨🇳 Chinese \([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN)\) 
-* 🇮🇩 Indonesian \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\) 
-* 🇻🇳 Việt Nam \([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN)\) 
-* 🇪🇸 🇦🇷 🇻🇪 Español \([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)\) 
+* 🇯🇵 Japanese \([https://t.me/FreeFinanceJP](https://t.me/FreeFinanceJP)\)
+* 🇨🇳 Chinese \([http://t.me/FreeFinance\_CN](http://t.me/FreeFinance_CN)\) 
+* 🇮🇩 Indonesian \([http://t.me/FreeFinanceIndonesia](http://t.me/FreeFinanceIndonesia)\) 
+* 🇻🇳 Việt Nam \([https://t.me/FreeFinanceVN](https://t.me/FreeFinanceVN)\) 
+* 🇪🇸 🇦🇷 🇻🇪 Español \([https://t.me/FreeFinanceES](https://t.me/FreeFinanceES)\) 
 * 🇷🇺 Russian \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
-* 🇧🇷 🇵🇹 Portuguese/Brazilian Community \([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese)\)
+* 🇧🇷 🇵🇹 Portuguese/Brazilian Community \([https://t.me/FreeFinancePortuguese](https://t.me/FreeFinancePortuguese)\)
 * 🇫🇷 French \([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)\) 
 * 🇮🇹 Italiano \([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita)\) 
 * 🇹🇷 Türkiye \([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)\) 
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch \([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap_DE)\)
+* 🇩🇪 🇦🇹 🇨🇭 Deutsch \([https://t.me/FreeFinance\_DE](https://t.me/FreeFinance_DE)\)
 * 😤 Ban Appeal \([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
 
 {% hint style="danger" %}

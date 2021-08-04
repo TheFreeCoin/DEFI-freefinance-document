@@ -1,12 +1,12 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming on FreeFinance is easy!
 ---
 
 # How to Use Farms
 
 ![](../../.gitbook/assets/docs-masthead%20%282%29%20%281%29.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming in Farms is a great way to earn CAKE rewards on FreeFinance.
 
 Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
 
@@ -123,7 +123,7 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use FreeFinance Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!
 

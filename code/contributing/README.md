@@ -1,5 +1,5 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: Thank you for expressing your interest in contributing to FreeFinance!
 ---
 
 # Contributing

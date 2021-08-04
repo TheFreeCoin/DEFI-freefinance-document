@@ -18,7 +18,7 @@ You can also redeem your funds at any time by removing your liquidity.
 
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool. 
 
-Whenever someone trades on PancakeSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
+Whenever someone trades on FreeFinance, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
 
 For example:
 

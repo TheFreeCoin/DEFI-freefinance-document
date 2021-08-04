@@ -33,7 +33,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 
 That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
+However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, FreeFinance isn't able to block a token or return funds.
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ It might be the case that prices are updating too fast when and your slippage to
 {% tab title="Solution for nerds" %}
 OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
 
-There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+There currently isn't a simple way to solve this issue from the FreeFinance website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
 ### **Approve the LP contract**
 
@@ -154,7 +154,7 @@ This issue must be resolved by the project team.
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+**This issue is caused by tokens which have hard-coded the V1 FreeFinance router into their contract.**
 
 While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
 
@@ -327,7 +327,7 @@ This happens when you try to connect via a browser extension like MetaMask or Bi
 
 {% tabs %}
 {% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+Install the official browser extension to connect, or read our guide on [how to connect a wallet to FreeFinance](https://docs.pancakeswap.finance/get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 

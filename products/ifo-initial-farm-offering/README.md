@@ -4,7 +4,7 @@
 
 Buy new tokens using CAKE-BNB LP tokens. 
 
-The project gets the BNB, PancakeSwap burns the CAKE. **You get the tokens.**
+The project gets the BNB, FreeFinance burns the CAKE. **You get the tokens.**
 
 1. **You will need CAKE-BNB LP tokens** to participate.
 2. **CAKE tokens equating to half of the total funds raised will be burned forever**: For example, if the full $1,000,000 USD allocation is raised, then ****$500,000 of CAKE tokens will be burned.
@@ -58,7 +58,7 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 ## Want to launch your own IFO?
 
-Launch your project with PancakeSwap, Binance Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
+Launch your project with FreeFinance, Binance Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
 \*\*\*\*[Apply to launch](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 

@@ -41,7 +41,7 @@ In addition to the above, a dynamic amount of CAKE is also minted to the [Dev ad
 
 At present, CAKE is also burned in the following ways:
 
-* **0.05%** of every trade made on PancakeSwap V2
+* **0.05%** of every trade made on FreeFinance V2
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE raised in IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting

@@ -1,4 +1,4 @@
 # Twitter
 
-[https://twitter.com/PancakeSwap](https://twitter.com/PancakeSwap)
+[https://twitter.com/FreeFinance](https://twitter.com/FreeFinance)
 

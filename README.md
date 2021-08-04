@@ -1,11 +1,11 @@
-# PancakeSwap Intro
+# FreeFinance Intro
 
 
 
 ![](.gitbook/assets/masthead-twitter-3-%20%281%29.png)
 
 {% hint style="success" %}
-#### PancakeSwap helps you make the most out of your crypto in three ways:
+#### FreeFinance helps you make the most out of your crypto in three ways:
 
 #### Trade, Earn, and Win.
 {% endhint %}
@@ -16,17 +16,17 @@
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market \(sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)\).
+FreeFinance is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market \(sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)\).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.   
+Why pay more? FreeFinance runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.   
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
 Trade directly from your wallet app.   
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
+Unlike centralized exchanges like Binance or Coinbase, FreeFinance doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
 
 ## 💸 Earn
 
@@ -47,11 +47,11 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ## 🎲 Win
 
-> PancakeSwap makes making money fun.
+> FreeFinance makes making money fun.
 
 ### Lottery 
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.   
+**Millions of dollars** regularly go up for grabs on the FreeFinance Lottery.   
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles 
@@ -64,13 +64,13 @@ Win BNB if you can predict whether the BNB price will rise or fall.
 New rounds every 5 minutes!  
 
 
-## Is PancakeSwap safe?
+## Is FreeFinance safe?
 
 See for yourself:
 
-* Check out these PancakeSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+* Check out these FreeFinance security audits: 
+  * [Certik’s security audit of FreeFinance](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
+  * [Slowmist's security audit of FreeFinance](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20FreeFinance.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
